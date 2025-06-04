@@ -3468,3 +3468,256 @@
 {"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:56.736Z"}
 {"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:56.737Z"}
 {"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:56.737Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:57.929Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:57.932Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:57.934Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:57.935Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:57.936Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:58.328Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:58.329Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:58.330Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:58.377Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:58.377Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:58.378Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:58.378Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:58.379Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:58.379Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:58.380Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:58.380Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:58.380Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:49:29.842Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:49:29.846Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:49:29.848Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:49:29.850Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:49:29.851Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:49:30.306Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:49:30.308Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:49:30.309Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:49:30.372Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:49:30.373Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:49:30.374Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:49:30.374Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:49:30.374Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:49:30.375Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:49:30.375Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:49:30.375Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:49:30.376Z"}
+{"level":"info","message":"Successfully reloaded 6 application (/) commands.","timestamp":"2025-06-04T02:49:31.093Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T02:49:31.093Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T02:49:32.212Z"}
+{"level":"info","message":"Received SIGINT. Shutting down...","timestamp":"2025-06-04T03:30:28.969Z"}
+{"cached":false,"inputTokens":135,"level":"info","message":"AI Response Generated","model":"gpt-3.5-turbo","outputTokens":18,"timestamp":"2025-06-04T03:48:21.872Z","userId":"test_user"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:48:43.055Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:48:43.058Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:48:43.060Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:48:43.061Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:48:43.206Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:48:43.207Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:48:43.209Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:48:43.792Z"}
+{"level":"info","message":"Started refreshing 8 application (/) commands.","timestamp":"2025-06-04T03:48:43.792Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T03:48:44.413Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:48:48.932Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:48:48.937Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:48:48.941Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:48:48.946Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:48:49.122Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:48:49.123Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:48:49.126Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:48:49.548Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T03:48:49.550Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T03:48:49.551Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T03:48:49.602Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T03:48:49.603Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:48:49.603Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:48:49.604Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:48:49.604Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:48:49.604Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:48:49.604Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:48:49.605Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:48:49.605Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:48:49.605Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T03:48:49.606Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T03:48:50.123Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T03:48:50.123Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T03:48:51.189Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:51:31.384Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:51:31.388Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:51:31.390Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:51:31.391Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:51:31.551Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:51:31.553Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:51:31.555Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:51:31.985Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T03:51:31.986Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T03:51:31.987Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T03:51:32.129Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T03:51:32.130Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:51:32.130Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:51:32.131Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:51:32.131Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:51:32.131Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:51:32.132Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:51:32.132Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:51:32.132Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:51:32.133Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T03:51:32.133Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T03:51:32.904Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T03:51:32.905Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T03:51:34.047Z"}
+{"level":"info","message":"Received SIGINT. Shutting down...","timestamp":"2025-06-04T03:51:48.491Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:52:33.099Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:52:33.102Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:52:33.103Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:52:33.104Z"}
+{"level":"info","message":"Loaded command: chat (AI)","timestamp":"2025-06-04T03:52:33.238Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:52:33.240Z"}
+{"level":"info","message":"Loaded command: insights (AI)","timestamp":"2025-06-04T03:52:33.241Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:52:33.616Z"}
+{"level":"info","message":"Started refreshing 8 application (/) commands.","timestamp":"2025-06-04T03:52:33.616Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T03:52:34.217Z"}
+{"level":"info","message":"✅ AI features are enabled","timestamp":"2025-06-04T03:52:34.218Z"}
+{"level":"info","message":"✅ OpenAI API key is configured","timestamp":"2025-06-04T03:52:34.218Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:52:38.058Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:52:38.061Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:52:38.063Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:52:38.064Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:52:38.222Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:52:38.224Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:52:38.225Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:52:38.594Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T03:52:38.597Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T03:52:38.599Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T03:52:38.642Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T03:52:38.642Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T03:52:38.643Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T03:52:38.643Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T03:52:38.643Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T03:52:38.644Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T03:52:38.644Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T03:52:38.644Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T03:52:38.644Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T03:52:38.645Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T03:52:38.645Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T03:52:39.223Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T03:52:39.223Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T03:52:40.320Z"}
+{"level":"info","message":"Received SIGINT. Shutting down...","timestamp":"2025-06-04T08:23:55.084Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:23:59.145Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:23:59.148Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:23:59.149Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:23:59.150Z"}
+{"level":"info","message":"Loaded command: chat (AI)","timestamp":"2025-06-04T08:23:59.303Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:23:59.304Z"}
+{"level":"info","message":"Loaded command: insights (AI)","timestamp":"2025-06-04T08:23:59.306Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:23:59.718Z"}
+{"level":"info","message":"Started refreshing 8 application (/) commands.","timestamp":"2025-06-04T08:23:59.719Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T08:24:00.327Z"}
+{"level":"info","message":"✅ AI features are enabled","timestamp":"2025-06-04T08:24:00.328Z"}
+{"level":"info","message":"✅ OpenAI API key is configured","timestamp":"2025-06-04T08:24:00.328Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:24:03.069Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:24:03.072Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:24:03.074Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:24:03.075Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T08:24:03.227Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:24:03.229Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T08:24:03.230Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:24:03.628Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T08:24:03.629Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T08:24:03.631Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T08:24:03.679Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T08:24:03.680Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:24:03.680Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:24:03.681Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:24:03.681Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:24:03.682Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T08:24:03.682Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:24:03.682Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T08:24:03.682Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:24:03.683Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T08:24:03.683Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T08:24:04.395Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T08:24:04.395Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T08:24:05.447Z"}
+{"level":"info","message":"Received SIGINT. Shutting down...","timestamp":"2025-06-04T08:24:28.848Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:24:30.500Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:24:30.503Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:24:30.505Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:24:30.506Z"}
+{"level":"info","message":"Loaded command: chat (AI)","timestamp":"2025-06-04T08:24:30.642Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:24:30.644Z"}
+{"level":"info","message":"Loaded command: insights (AI)","timestamp":"2025-06-04T08:24:30.645Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:24:31.016Z"}
+{"level":"info","message":"Started refreshing 8 application (/) commands.","timestamp":"2025-06-04T08:24:31.016Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T08:24:31.814Z"}
+{"level":"info","message":"✅ AI features are enabled","timestamp":"2025-06-04T08:24:31.814Z"}
+{"level":"info","message":"✅ OpenAI API key is configured","timestamp":"2025-06-04T08:24:31.814Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:24:36.921Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:24:36.925Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:24:36.926Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:24:36.927Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T08:24:37.056Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:24:37.058Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T08:24:37.059Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:24:37.431Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T08:24:37.432Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T08:24:37.434Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T08:24:37.474Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T08:24:37.474Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:24:37.475Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:24:37.475Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:24:37.476Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:24:37.476Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T08:24:37.476Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:24:37.476Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T08:24:37.477Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:24:37.477Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T08:24:37.477Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T08:25:31.071Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T08:25:31.072Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T08:25:32.143Z"}
+{"level":"info","message":"Received SIGINT. Shutting down...","timestamp":"2025-06-04T08:25:47.834Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:26:27.784Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:26:27.788Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:26:27.789Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:26:27.791Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T08:26:27.977Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:26:27.979Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T08:26:27.981Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:26:28.495Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T08:26:28.496Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T08:26:28.498Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T08:26:28.823Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T08:26:28.824Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:26:28.824Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:26:28.825Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:26:28.825Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:26:28.825Z"}
+{"level":"info","message":"Loaded command: chat","timestamp":"2025-06-04T08:26:28.826Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:26:28.826Z"}
+{"level":"info","message":"Loaded command: insights","timestamp":"2025-06-04T08:26:28.826Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:26:28.827Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T08:26:28.827Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T08:26:29.475Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T08:26:29.476Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T08:26:30.688Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T08:26:38.385Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T08:26:38.388Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T08:26:38.389Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T08:26:38.390Z"}
+{"level":"info","message":"Loaded command: chat (AI)","timestamp":"2025-06-04T08:26:38.524Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T08:26:38.525Z"}
+{"level":"info","message":"Loaded command: insights (AI)","timestamp":"2025-06-04T08:26:38.527Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T08:26:38.903Z"}
+{"level":"info","message":"Started refreshing 8 application (/) commands.","timestamp":"2025-06-04T08:26:38.904Z"}
+{"level":"info","message":"Successfully reloaded 8 application (/) commands.","timestamp":"2025-06-04T08:26:39.540Z"}
+{"level":"info","message":"✅ AI features are enabled","timestamp":"2025-06-04T08:26:39.540Z"}
+{"level":"info","message":"✅ OpenAI API key is configured","timestamp":"2025-06-04T08:26:39.540Z"}
+{"cached":false,"inputTokens":571,"level":"info","message":"AI Response Generated","model":"gpt-3.5-turbo","outputTokens":150,"timestamp":"2025-06-04T08:27:07.808Z","userId":"407869348032544769"}
+{"level":"error","message":"Error generating AI receipt insight: Cannot access 'embed' before initialization","stack":"ReferenceError: Cannot access 'embed' before initialization\n    at Object.execute (D:\\coding_projects\\projects\\finance-tracking-bot\\src\\bot\\commands\\receipt.js:148:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.execute (D:\\coding_projects\\projects\\finance-tracking-bot\\src\\bot\\events\\interactionCreate.js:22:11)","timestamp":"2025-06-04T08:27:07.809Z"}
+{"level":"error","message":"Error generating AI receipt insight: Cannot access 'embed' before initialization","stack":"ReferenceError: Cannot access 'embed' before initialization\n    at Object.execute (D:\\coding_projects\\projects\\finance-tracking-bot\\src\\bot\\commands\\receipt.js:148:13)\n    at async Object.execute (D:\\coding_projects\\projects\\finance-tracking-bot\\src\\bot\\events\\interactionCreate.js:22:11)","timestamp":"2025-06-04T08:27:21.638Z"}
+{"level":"error","message":"Error generating AI receipt insight: Cannot access 'embed' before initialization","stack":"ReferenceError: Cannot access 'embed' before initialization\n    at Object.execute (D:\\coding_projects\\projects\\finance-tracking-bot\\src\\bot\\commands\\receipt.js:148:13)\n    at async Object.execute (D:\\coding_projects\\projects\\finance-tracking-bot\\src\\bot\\events\\interactionCreate.js:22:11)","timestamp":"2025-06-04T08:27:40.837Z"}
+{"cached":false,"inputTokens":135,"level":"info","message":"AI Response Generated","model":"gpt-3.5-turbo","outputTokens":18,"timestamp":"2025-06-04T08:30:00.698Z","userId":"test_user"}
+{"cached":false,"inputTokens":222,"level":"info","message":"AI Response Generated","model":"gpt-3.5-turbo","outputTokens":150,"timestamp":"2025-06-04T08:31:48.730Z","userId":"407869348032544769"}
+{"level":"info","message":"Conversation logged","messageLength":37,"responseLength":668,"timestamp":"2025-06-04T08:31:48.730Z","userId":"407869348032544769"}
+{"cached":false,"inputTokens":202,"level":"info","message":"AI Response Generated","model":"gpt-3.5-turbo","outputTokens":123,"timestamp":"2025-06-04T08:32:53.332Z","userId":"407869348032544769"}

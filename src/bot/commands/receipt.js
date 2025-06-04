@@ -3,6 +3,8 @@ const { prisma } = require("../../config/database");
 const userService = require("../../services/userService");
 const ocrService = require("../../services/ocrService");
 const receiptParser = require("../../services/receiptParser");
+const aiService = require("../../services/aiService");
+const logger = require("../../utils/logger");
 
 module.exports = {
   name: "receipt",
@@ -133,6 +135,27 @@ module.exports = {
         },
       });
 
+      // Generate AI insights for the receipt
+      if (process.env.ENABLE_AI_FEATURES === "true") {
+        try {
+          const aiAnalysis = await aiService.generateResponse(
+            interaction.user.id,
+            `I just processed a receipt for $${transaction.amount.toFixed(2)} at ${transaction.merchantName || "Unknown"} in category ${transaction.category.name}. Any quick spending insights or tips?`,
+            { recentTransaction: transaction }
+          );
+
+          if (aiAnalysis.success) {
+            embed.addFields({
+              name: "🤖 AI Insight",
+              value: aiAnalysis.response.substring(0, 1024), // Discord field limit
+              inline: false,
+            });
+          }
+        } catch (error) {
+          logger.error("Error generating AI receipt insight:", error);
+        }
+      }
+
       // Get total for the transaction's month
       const transactionDate = transaction.transactionDate;
       const startOfMonth = new Date(
@@ -140,6 +163,7 @@ module.exports = {
         transactionDate.getMonth(),
         1
       );
+
       const endOfMonth = new Date(
         transactionDate.getFullYear(),
         transactionDate.getMonth() + 1,
