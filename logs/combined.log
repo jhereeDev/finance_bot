@@ -3275,3 +3275,196 @@
 {"level":"info","message":"Successfully reloaded 6 application (/) commands.","timestamp":"2025-06-03T14:57:25.128Z"}
 {"level":"info","message":"Slash commands registered","timestamp":"2025-06-03T14:57:25.128Z"}
 {"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-03T14:57:26.299Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:46:18.795Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:46:18.798Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:46:18.799Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:46:18.800Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:46:18.801Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:46:21.893Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:46:21.895Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:46:21.896Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:46:23.175Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:46:23.176Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:46:23.177Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:46:23.177Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:46:23.177Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:46:23.178Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:46:23.178Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:46:23.178Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:46:23.179Z"}
+{"level":"info","message":"Successfully reloaded 6 application (/) commands.","timestamp":"2025-06-04T02:46:25.265Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T02:46:25.266Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T02:46:26.376Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:36.375Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:36.381Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:36.382Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:36.383Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:36.385Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:36.793Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:36.794Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:36.795Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:36.874Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:36.874Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:36.875Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:36.876Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:36.876Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:36.877Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:36.877Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:36.878Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:36.878Z"}
+{"level":"info","message":"Successfully reloaded 6 application (/) commands.","timestamp":"2025-06-04T02:48:37.456Z"}
+{"level":"info","message":"Slash commands registered","timestamp":"2025-06-04T02:48:37.457Z"}
+{"level":"info","message":"Bot logged in successfully","timestamp":"2025-06-04T02:48:38.724Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:42.713Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:42.716Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:42.718Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:42.720Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:42.721Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:43.142Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:43.144Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:43.145Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:43.192Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:43.192Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:43.193Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:43.194Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:43.194Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:43.194Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:43.195Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:43.195Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:43.195Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:44.503Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:44.507Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:44.508Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:44.509Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:44.510Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:44.913Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:44.914Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:44.916Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:44.961Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:44.961Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:44.962Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:44.962Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:44.963Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:44.963Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:44.963Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:44.964Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:44.964Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:46.496Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:46.499Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:46.501Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:46.502Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:46.503Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:46.929Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:46.934Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:46.936Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:46.994Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:46.994Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:46.995Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:46.995Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:46.996Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:46.996Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:46.996Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:46.997Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:46.997Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:48.189Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:48.192Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:48.194Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:48.195Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:48.196Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:48.595Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:48.597Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:48.599Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:48.647Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:48.647Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:48.648Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:48.649Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:48.649Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:48.650Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:48.650Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:48.650Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:48.650Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:49.873Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:49.877Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:49.879Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:49.881Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:49.882Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:50.271Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:50.273Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:50.274Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:50.321Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:50.321Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:50.322Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:50.322Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:50.323Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:50.323Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:50.323Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:50.324Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:50.324Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:51.483Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:51.487Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:51.488Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:51.489Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:51.490Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:51.900Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:51.902Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:51.903Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:51.946Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:51.947Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:51.948Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:51.948Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:51.949Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:51.949Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:51.949Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:51.950Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:51.950Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:53.012Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:53.015Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:53.017Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:53.018Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:53.020Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:53.422Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:53.424Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:53.425Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:53.471Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:53.471Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:53.472Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:53.472Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:53.473Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:53.473Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:53.473Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:53.474Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:53.474Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:54.652Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:54.655Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:54.657Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:54.658Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:54.660Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:55.129Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:55.131Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:55.133Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:55.178Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:55.178Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:55.179Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:55.179Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:55.180Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:55.180Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:55.180Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:55.181Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:55.181Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:56.290Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:56.293Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:56.295Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:56.297Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:56.298Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:56.679Z"}
+{"level":"info","message":"Loaded event: interactionCreate","timestamp":"2025-06-04T02:48:56.681Z"}
+{"level":"info","message":"Loaded event: messageCreate","timestamp":"2025-06-04T02:48:56.682Z"}
+{"level":"info","message":"Successfully connected to database","timestamp":"2025-06-04T02:48:56.733Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-06-04T02:48:56.734Z"}
+{"level":"info","message":"Loaded command: add","timestamp":"2025-06-04T02:48:56.735Z"}
+{"level":"info","message":"Loaded command: balance","timestamp":"2025-06-04T02:48:56.735Z"}
+{"level":"info","message":"Loaded command: budget","timestamp":"2025-06-04T02:48:56.736Z"}
+{"level":"info","message":"Loaded command: categories","timestamp":"2025-06-04T02:48:56.736Z"}
+{"level":"info","message":"Loaded command: help","timestamp":"2025-06-04T02:48:56.736Z"}
+{"level":"info","message":"Loaded command: receipt","timestamp":"2025-06-04T02:48:56.737Z"}
+{"level":"info","message":"Started refreshing application (/) commands for client ID: 1379388220412002355","timestamp":"2025-06-04T02:48:56.737Z"}
